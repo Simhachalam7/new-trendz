@@ -10,6 +10,19 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 </div>
 <br/>
 
+## Project URL
+
+The project is deployed and can be accessed at the following URL:
+
+[https://nxtrendz7.ccbp.tech](https://nxtrendz7.ccbp.tech)
+
+## Sample Login Credentials
+
+- **Username**: `rahul`
+- **Password**: `rahul@2021`
+
+Please use these credentials to log in and explore the project.
+
 ### Design Files
 
 <details>
